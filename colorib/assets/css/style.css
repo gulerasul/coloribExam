@@ -1,0 +1,47 @@
+li{
+    list-style: none;
+}
+.btn{
+    float: right;
+}
+.la-bars{
+    font-size: 35px;
+    margin: 50px;
+   margin: 15px;
+}
+.offcanvas-body ul li {
+    font-size: 20px;
+    text-align: center;
+    padding: 13px;
+   
+}
+.logo h2{
+    margin-top: 25px;
+    text-align: center;
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+}
+.logo2{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://preview.colorlib.com/theme/meal/images/xslider-1.jpg.pagespeed.ic.grltCgRAOJ.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.logo2 h2{
+   text-align: center; 
+   font-weight: bold;
+   font-size: 80px;
+   color: white;
+   padding: 300px;
+  
+}
+.logo3 .card{
+
+    border: none;}
+.logo7 .card{
+border: none;
+}
+   
